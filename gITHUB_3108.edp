@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <_Project>
+    <ProjectName val="gITHUB_3108"/>
+    <VCProjectID val="0"/>
+    <VCActive val="N"/>
+    <WorkOffline val="N"/>
+    <VCUseGitPlugin val="N"/>
+    <SourceDirectory val="Source"/>
+    <ExportsDirectory val="Exports"/>
+    <GUID val="{4127E25E-9C38-40D1-9937-36BB64F59F8C}"/>
+    <Version min="13020.10"/>
+    <SourceVersion val="14070.00"/>
+  </_Project>
+
+</Application>
